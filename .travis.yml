@@ -1,3 +1,4 @@
+sudo: required
 branches:
   except:
     - gh-pages

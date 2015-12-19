@@ -22,6 +22,10 @@ Por qué, como y dónde hay que extraer datos
 
 ### Qué es un API REST y para qué sirve
 
+### ¿Qué lenguaje elegir?
+
+### Librerías y marcos de trabajo
+
 ## Trabajando con formatos de ficheros
 
 ### JSON
@@ -38,6 +42,7 @@ Por qué, como y dónde hay que extraer datos
 ### Navegación: automatización de la web para extracción de datos. 
 ### Scraping de PDF: lo más complicado
 ### Consumiendo APIs.
+### Extrayendo datos sin programar. 
 
 #Almacenando los datos
 

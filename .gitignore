@@ -14,3 +14,7 @@ vignettes/*.pdf
 
 # backup
 *~
+
+# Generados
+*.pdf
+*.epub

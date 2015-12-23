@@ -24,7 +24,7 @@ Por qué, como y dónde hay que extraer datos
 
 ### ¿Qué lenguaje elegir?
 
-### Librerías y marcos de trabajo
+### Librerías y entornos de trabajo
 
 ## Trabajando con formatos de ficheros
 
@@ -55,3 +55,6 @@ Por qué, como y dónde hay que extraer datos
 ### Grafos y cosas más exóticas.
 
 #Creando aplicaciones completas
+
+## DevOps para datos
+## Publicación en la nube
